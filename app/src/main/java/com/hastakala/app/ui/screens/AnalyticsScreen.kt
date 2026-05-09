@@ -215,7 +215,7 @@ fun AnalyticsScreen(
                         factory = { context ->
                             PieChart(context).apply {
                                 description.isEnabled = false
-                                isDrawHoleEnabled = true
+                                isDrawHoleEnabled = false
                                 holeRadius = 50f
                                 transparentCircleRadius = 55f
                                 setDrawEntryLabels(false)

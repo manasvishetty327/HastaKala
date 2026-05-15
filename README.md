@@ -91,14 +91,9 @@ Using Physical Device:
 ### Settings
 - Basic application configurations and preferences
 
-## Architecture
-UI (Jetpack Compose)
-↓
-ViewModel
-↓
-Repository
-↓
-Room Database
+## Workflow
+<img width="722" height="314" alt="image" src="https://github.com/user-attachments/assets/e4d6c77d-f287-4532-81cf-36f15fbd5457" />
+
 
 ## Problem Statement
 Artisans and small business owners often do not maintain proper sales records, making it difficult to track stock, monitor income, and identify best-selling products. This can lead to poor inventory management and financial loss.

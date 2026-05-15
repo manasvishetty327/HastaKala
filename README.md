@@ -107,12 +107,12 @@ The objective of this project is to provide a lightweight and easy-to-use mobile
 ## Screenshots
 1. Splash Screen
 <img width="342" height="636" alt="image" src="https://github.com/user-attachments/assets/37dc96c4-abd7-4983-a99f-7ed8810ef45f" />
-###
+
 
           
 2. Home Screen
 <img width="269" height="705" alt="image" src="https://github.com/user-attachments/assets/83fdd4c9-6e3b-41a8-b794-2b4fd5c7ddeb" />
-###
+
 
 
          
@@ -120,7 +120,7 @@ The objective of this project is to provide a lightweight and easy-to-use mobile
 <img width="290" height="634" alt="image" src="https://github.com/user-attachments/assets/5c79ffb8-6d51-44e1-9e24-4593f4e7b6dd" />   
 
 <img width="274" height="708" alt="image" src="https://github.com/user-attachments/assets/6d0b8388-221b-4a28-a1dc-46b81e8315db" />
-###
+
 
   
 4. Insights Screen
@@ -132,14 +132,14 @@ The objective of this project is to provide a lightweight and easy-to-use mobile
 
 5. Income Screen
 <img width="206" height="612" alt="image" src="https://github.com/user-attachments/assets/27a0d5f0-919f-4479-9b67-f1a47d7b56b9" />
-###
+
 
 
           
           
 6. Settings Screen
 <img width="194" height="606" alt="image" src="https://github.com/user-attachments/assets/08de53eb-c690-4e5b-b8b6-b2323f51dd08" />             
-###
+
 
 ## Future Enhancements
 - Multi-language support

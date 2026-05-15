@@ -1,6 +1,8 @@
 
 # Hasta Kala Shop – Micro Sales Analytics App
 
+Download the App here: https://manasvishetty327.github.io/-hasta-kala-web/
+
 ## Overview
 Hasta Kala Shop is an Android-based micro-sales analytics application developed to help artisans and small business owners manage daily sales, track stock, monitor income, and analyze product performance. The application provides a simple and user-friendly interface for recording sales and viewing business insights through charts and analytics.
 

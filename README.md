@@ -125,8 +125,7 @@ The objective of this project is to provide a lightweight and easy-to-use mobile
   
 4. Insights Screen
 <img width="316" height="640" alt="Screenshot 2026-05-09 072856" src="https://github.com/user-attachments/assets/dd177160-c380-4016-90c5-aecdb5c17b07" />     
-  ###
-
+  
 
 
 
